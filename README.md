@@ -6,8 +6,11 @@
 <p align="center">Scan, identify, and track your collection in seconds.</p>
 
 <p align="center">
-  <a href="#support">
-    <img alt="Support this project" src="https://img.shields.io/badge/Support%20this%20project-Donate-10b981?style=for-the-badge" />
+  <a href="https://mce-promp.madpanda3d.com">
+    <img alt="Support this project" src="https://img.shields.io/badge/Support_Project-Donate-ff69b4?style=for-the-badge&logo=heart&logoColor=white" />
+  </a>
+  <a href="https://mce-promp.madpanda3d.com">
+    <img alt="Become a beta tester" src="https://img.shields.io/badge/Become_a_Beta_Tester-Get_Access-2563eb?style=for-the-badge&logo=rocket&logoColor=white" />
   </a>
 </p>
 
@@ -26,16 +29,22 @@
 
 ## What this is
 
-MAD Card Exchange is a modern trading card collection platform built around fast scanning, clean inventory management, and visual-first insights. It is designed to help collectors capture cards quickly, keep data clean, and understand value over time.
+MAD Card Exchange is a modern trading card collection platform built for speed, clarity, and visual impact. It helps collectors capture cards fast, keep collections clean, and see their progress at a glance.
 
-## Highlights
+## Why collectors love it
 
-- Fast card capture with guided framing and auto or manual modes
+- Fast card capture with guided framing and flexible scan modes
 - Multi-TCG collections with custom organization and featured slots
 - Exchange database browsing for deep catalog discovery
 - 3D card viewer for rich inspection
 - Pack inventory tracking for sealed products
-- Value insights, trends, and achievements to reward progress
+- Value insights, trends, and achievements that reward progress
+
+## Built for
+
+- Collectors who want a clean, visual-first catalog
+- Shops and sellers who need fast inventory clarity
+- Communities that want a shared view of sets and value
 
 ## Demo
 
@@ -51,47 +60,55 @@ MAD Card Exchange is a modern trading card collection platform built around fast
 ### Scan and identify
 ![Scan and identify](assets/screenshots/scan-identify.jpg)
 
-Scan your cards the way that feels effortless. Line up the card in the on-screen frame and it snaps instantly, or tap to capture whenever you want. No fuss, no guessing.
-
-Need speed? Switch to Multi-Scan and blaze through stacks. Prefer precision? Single Scan keeps it focused. Auto or manual, fast or careful, the scan flow adapts to how you like to collect.
+Scan your cards the way that feels effortless. Line up the card in the on-screen frame and it snaps instantly, or tap to capture whenever you want. Auto or manual, the scan flow adapts to how you like to collect.
 
 ### Collections and organization
 ![Collections and organization](assets/screenshots/collections-organizations.jpg)
 
+Group cards by game, set, deck, or custom themes. Pin highlights, surface favorites, and keep the collection clean as it grows.
+
 ### Exchange database
 ![Exchange database](assets/screenshots/exchange-database.jpg)
+
+Explore the full catalog with a visual browse experience built for discovery. Find new cards, track sets, and compare editions fast.
 
 ### 3D card viewer
 ![3D card viewer](assets/screenshots/card-viewer-3d.jpg)
 
+Inspect cards in a rich, interactive view that makes surface detail and presentation pop.
+
 ### Pack inventory
 ![Pack inventory](assets/screenshots/pack-inventory.jpg)
+
+Track sealed products alongside your singles so your entire collection lives in one place.
 
 ### Achievements and rewards
 ![Achievements and rewards](assets/screenshots/achievements-rewards.jpg)
 
+Celebrate milestones and progress with achievements that make collecting more fun.
+
 ### Value insights and trends
 ![Value insights and trends](assets/screenshots/value-insights-trends.jpg)
 
-## How it works
+See your collection at a glance with trend views that help you understand progress over time.
 
-1. Frame the card inside the scan zone.
-2. Capture automatically or manually.
-3. Match against the internal catalog and enrich with pricing data.
-4. Save to your collection and view insights.
+## How it feels
 
-## Tech stack
+- Scan fast, stay in flow
+- Organize with clarity
+- Explore new cards and sets
+- Track your collection progress
 
-- Frontend: React 18, TypeScript, Vite
-- Styling: Tailwind CSS, shadcn/ui
-- Backend: Supabase (PostgreSQL, Auth, Edge Functions, Storage)
-- State: TanStack Query
-- Motion: Framer Motion
+## Support and beta access
 
-## Support
-
-If you want to support the project:
-`https://mce-promo.madpanda3d.com/donations`
+<p align="center">
+  <a href="https://mce-promp.madpanda3d.com">
+    <img alt="Support this project" src="https://img.shields.io/badge/Support_Project-Donate-ff69b4?style=for-the-badge&logo=heart&logoColor=white" />
+  </a>
+  <a href="https://mce-promp.madpanda3d.com">
+    <img alt="Become a beta tester" src="https://img.shields.io/badge/Become_a_Beta_Tester-Get_Access-2563eb?style=for-the-badge&logo=rocket&logoColor=white" />
+  </a>
+</p>
 
 ## License
 
