@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo/logo.jpeg" width="140" alt="MAD Card Exchange logo" />
+  <img src="./assets/brand/header.jpg" alt="MAD Card Exchange header" />
 </p>
 
 <h1 align="center">MAD Card Exchange</h1>
