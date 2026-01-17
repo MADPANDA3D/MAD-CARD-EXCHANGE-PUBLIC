@@ -6,10 +6,10 @@
 <p align="center">Scan, identify, and track your collection in seconds.</p>
 
 <p align="center">
-  <a href="https://mce-promp.madpanda3d.com">
+  <a href="https://mce-promo.madpanda3d.com">
     <img alt="Support this project" src="https://img.shields.io/badge/Support_Project-Donate-ff69b4?style=for-the-badge&logo=heart&logoColor=white" />
   </a>
-  <a href="https://mce-promp.madpanda3d.com">
+  <a href="https://mce-promo.madpanda3d.com">
     <img alt="Become a beta tester" src="https://img.shields.io/badge/Become_a_Beta_Tester-Get_Access-2563eb?style=for-the-badge&logo=rocket&logoColor=white" />
   </a>
 </p>
@@ -104,10 +104,10 @@ See your collection at a glance with trend views that help you understand progre
 ## Support & beta access
 
 <p align="center">
-  <a href="https://mce-promp.madpanda3d.com">
+  <a href="https://mce-promo.madpanda3d.com">
     <img alt="Support this project" src="https://img.shields.io/badge/Support_Project-Donate-ff69b4?style=for-the-badge&logo=heart&logoColor=white" />
   </a>
-  <a href="https://mce-promp.madpanda3d.com">
+  <a href="https://mce-promo.madpanda3d.com">
     <img alt="Become a beta tester" src="https://img.shields.io/badge/Become_a_Beta_Tester-Get_Access-2563eb?style=for-the-badge&logo=rocket&logoColor=white" />
   </a>
 </p>
