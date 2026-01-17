@@ -57,6 +57,8 @@ MAD Card Exchange is a modern trading card collection platform built for speed, 
 
 ## Screenshots
 
+Highlights from the current build.
+
 ### Scan and identify
 ![Scan and identify](assets/screenshots/scan-identify.jpg)
 
