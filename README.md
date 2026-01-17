@@ -101,7 +101,7 @@ See your collection at a glance with trend views that help you understand progre
 - Explore new cards and sets
 - Track your collection progress
 
-## Support and beta access
+## Support & beta access
 
 <p align="center">
   <a href="https://mce-promp.madpanda3d.com">
