@@ -33,7 +33,7 @@ jobs:
           last_date=$(git -C private-repo log -1 --format=%cs)
           mkdir -p assets/badges
           curl -fsSL "https://img.shields.io/badge/total%20commits-${count}-0ea5e9?style=flat-square" -o assets/badges/commits-total.svg
-          curl -fsSL "https://img.shields.io/badge/last%20commit-${last_date}-0f766e?style=flat-square" -o assets/badges/last-commit.svg
+          curl -fsSL "https://img.shields.io/static/v1?label=last%20commit&message=${last_date}&color=0f766e&style=flat-square" -o assets/badges/last-commit.svg
 
       - name: Commit updates
         shell: bash
