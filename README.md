@@ -51,12 +51,9 @@ MAD Card Exchange is a modern trading card collection platform built for speed, 
 
 ## Demo
 
-```
-+------------------------------------------------------------------+
-| DEMO VIDEO - Coming soon                                         |
-| Drop your Loom/YouTube/Vimeo link here to replace this box.      |
-+------------------------------------------------------------------+
-```
+<p align="center">
+  <img src="./assets/demo.gif" width="900" alt="MAD Card Exchange demo" />
+</p>
 
 ## Screenshots
 
