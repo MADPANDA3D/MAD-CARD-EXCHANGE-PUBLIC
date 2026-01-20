@@ -21,8 +21,11 @@
   <a href="https://github.com/MADPANDA3D/MAD-CARD-EXCHANGE-PUBLIC/fork">
     <img alt="GitHub forks" src="https://img.shields.io/github/forks/MADPANDA3D/MAD-CARD-EXCHANGE-PUBLIC?style=flat-square" />
   </a>
-  <a href="https://github.com/MADPANDA3D/MAD-CARD-EXCHANGE-PUBLIC/commits/main">
-    <img alt="Last commit" src="https://img.shields.io/github/last-commit/MADPANDA3D/MAD-CARD-EXCHANGE-PUBLIC?style=flat-square" />
+  <a href="https://github.com/MADPANDA3D/mad-card-exchange/commits/main">
+    <img alt="Last commit" src="https://img.shields.io/github/last-commit/MADPANDA3D/mad-card-exchange?style=flat-square" />
+  </a>
+  <a href="https://github.com/MADPANDA3D/mad-card-exchange/commits/main">
+    <img alt="Commits per year" src="https://img.shields.io/github/commit-activity/y/MADPANDA3D/mad-card-exchange?style=flat-square&label=commits%2Fyear&color=0ea5e9" />
   </a>
   <img alt="License" src="https://img.shields.io/badge/license-Proprietary-red?style=flat-square" />
 </p>
