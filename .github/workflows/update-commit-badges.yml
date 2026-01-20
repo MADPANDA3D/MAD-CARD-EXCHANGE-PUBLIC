@@ -14,6 +14,8 @@ jobs:
     steps:
       - name: Checkout public repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Checkout private repo
         uses: actions/checkout@v4
@@ -21,6 +23,7 @@ jobs:
           repository: MADPANDA3D/mad-card-exchange
           token: ${{ secrets.MAD_CARD_EXCHANGE_PAT }}
           path: private-repo
+          fetch-depth: 0
 
       - name: Generate badges
         shell: bash
@@ -36,12 +39,12 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          if git diff --quiet; then
+          git add assets/badges/commits-total.svg assets/badges/last-commit.svg
+          if git diff --cached --quiet; then
             echo "No badge changes."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add assets/badges/commits-total.svg assets/badges/last-commit.svg
           git commit -m "Update commit badges"
           git push
